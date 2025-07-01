@@ -1,5 +1,5 @@
-# kuis-html
-<!DOCTYPE html>
+# QUIZ TIME📝
+# USAHA
 <html lang="id">
 <head>
   <meta charset="UTF-8" />
@@ -92,7 +92,7 @@
 <body>
 
 <div class="container">
-  <h2>Kuis Pengetahuan Umum</h2>
+  <h2>Kuis Materi Usaha</h2>
   <div id="quiz">
     <div class="question" id="question">Memuat soal...</div>
     <div class="answers" id="answers"></div>
@@ -107,12 +107,12 @@
 <script>
   const quizData = [
     {
-      question: "Apa ibu kota Indonesia?",
-      a: "Bandung",
-      b: "Medan",
-      c: "Jakarta",
-      d: "Surabaya",
-      correct: "c"
+      question: "Kapan usaha dapat bernilai nol?",
+      a: "Saat gaya yang diberikan lebih besar",
+      b: "Saat gaya gesek memoengaruhi benda",
+      c: "Saat arah perpindahan berlawanan dengan gaya gesek",
+      d: "Saat arah perpindahan membentuk sudut 90 derajat",
+      correct: "d"
     },
     {
       question: "Siapa presiden pertama Indonesia?",
